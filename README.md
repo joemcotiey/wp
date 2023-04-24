@@ -1,2 +1,2 @@
 # wp
-this is just a simple wordpress website
+this is just a simple
